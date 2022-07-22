@@ -30,6 +30,7 @@
 <h3 align="left">daily-dev DevCard & Badge:</h3>
 <p align="left"> <a href="https://app.daily.dev/castanhf"><img src="https://api.daily.dev/devcards/77b25433807741f1848a3b710624ed5e.png?r=uyg" width="400" alt="Filipe Castanheira's Dev Card"/></a> </p>
 
+<h3 align="left">GitHub stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=castanhf&show_icons=true&locale=en&layout=compact" alt="castanhf" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=castanhf&show_icons=true&locale=en" alt="castanhf" /></p>
