@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filipe Castanheira</h1>
-<h3 align="center">Self-motivated and disciplined Junior programmer. Aspiring to be a Senior Software Developer. I also play tennis, so I am always up for a match.</h3>
+<h3 align="center">Self-motivated and disciplined programmer. Aspiring to be a Senior Software Developer. I also play tennis, so I am always up for a match.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=castanhf&label=Profile%20views&color=0e75b6&style=flat" alt="castanhf" /> </p>
 
