@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Filipe Castanheira</h1>
+<h3 align="center">Self-motivated and disciplined programmer. Aspiring to be a Senior Software Developer. I also play tennis, so I am always up for a match.</h3>
+
 [![](https://visitcount.itsvg.in/api?id=castanhf&icon=8&color=3)](https://visitcount.itsvg.in)
 # 💫 About Me:
  -🔭 I’m currently working on **Stock Calculator (link coming soon)**<br><br>- 🌱 I’m currently learning **React, Flutter & Dart**<br><br>- 🤝 I’m looking for help with **React (or Angular), Flutter & Dart**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/castanhf?tab=repositories](https://github.com/castanhf?tab=repositories)<br><br>- 💬 Ask me about **Object-Oriented Programming Languages (C++, C#, Java, Python)**<br><br>- 📫 How to reach me **castanhf@mail.gvsu.edu**<br><br>- ⚡ Fun Fact: **avid tennis fan**
